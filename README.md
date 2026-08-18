@@ -1,3 +1,5 @@
+_Last updated: 2026-08-18_
+
 1. Create a user
 2. Authenticate a user
 3. Blog CRUD
